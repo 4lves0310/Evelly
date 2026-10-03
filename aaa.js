@@ -1,0 +1,1 @@
+const startDate = new Date(2024, 9, 1); // (Ano, Mês-1, Dia)
